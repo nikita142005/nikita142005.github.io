@@ -1,0 +1,28 @@
+.about_container {
+    width: 100%;
+    height: 506px;
+    max-height: 506px;
+    background-color: #181818;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.about_container-text {
+    max-width: 650px;
+    height: 270px;
+    margin: 0 auto;
+    padding: 0 20px 0;
+}
+
+.about_container-text>h1 {
+    padding-top: 20%;
+}
+
+.about_container-text>h1 {
+    font-family: 'Gilroy-Bold', sans-serif;
+}
+
+.about_container-text>p {
+    font-family: 'Gilroy-Medium', sans-serif;
+}
+
